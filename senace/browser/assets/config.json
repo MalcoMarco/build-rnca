@@ -1,0 +1,9 @@
+{
+    "domainRaca": "",
+    "domainSenace": "",
+    
+    "pathApiSenance": "mpd/api",
+    "pathApiRaca": "senace/api",
+    
+    "recaptchaSiteKey": "6LcxjqUkAAAAADr-ytFYksAiTc4apNl-17-HSnQS"
+}
