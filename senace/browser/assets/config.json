@@ -1,6 +1,7 @@
 {
     "domainRaca": "",
     "domainSenace": "",
+    "domainReniec": "",
     
     "pathApiSenance": "mpd/api",
     "pathApiRaca": "senace/api",
